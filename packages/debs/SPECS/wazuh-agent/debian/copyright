@@ -1,10 +1,10 @@
 This work was packaged for Debian by:
 
-    Wazuh, Inc <info@wazuh.com> on Wed, 10 Jul 2024 00:00:00 +0000
+    Wazuh, Inc <info@conzex.com> on Wed, 10 Jul 2024 00:00:00 +0000
 
 It was downloaded from:
 
-    https://www.wazuh.com
+    https://www.conzex.com
 
 Upstream Authors:
 
@@ -17,10 +17,7 @@ Upstream Authors:
     brad.lhotsky@gmail.com
     jeremy@jeremyrossy.com
     santiago.bassett@gmail.com
-    pedro@wazuh.com
-    alberto.rodriguez@wazuh.com
-    braulio@wazuh.com
-    jose.fernandez@wazuh.com
+    kumawatsumit45@gmail.com
 
 Copyright:
 
@@ -32,7 +29,7 @@ License:
 
 The Debian packaging is:
 
-    Copyright (C) 2015 Wazuh, Inc <info@wazuh.com>
+    Copyright (C) 2025 Conzex Global Private Limited <info@conzex.com>
 
 and is licensed under the GPL version 2,
 see "/usr/share/common-licenses/GPL-2".
